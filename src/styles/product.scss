@@ -1,0 +1,101 @@
+.product {
+    &__row {
+        display: flex;
+        column-gap: 35px;
+    }
+
+    &__slider {
+        width: 55%;
+    }
+
+    &__info {
+        width: 45%;
+
+        &__title {
+            color: var(--text-color, #414141);
+            font-family: Roboto;
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+
+        &__category {
+            color: #686868;
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+        &__row {
+            display: flex;
+            align-items: center;
+            column-gap: 25px;
+            margin: 19px 0 21px;
+        }
+
+        &__price {
+            color: var(--text-color, #414141);
+            font-family: Roboto;
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+
+        &__btn {
+            background: var(--main-color, #245462);
+            padding: 13px 50px;
+            color: #FFF;
+            font-family: Roboto;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+        &__selects {
+            display: flex;
+            column-gap: 45px;
+            margin-bottom: 20px;
+
+            ul li {
+                margin-top: 10px;
+            }
+        }
+
+        &__colors {
+            li {
+                // width: 30px;
+                // height: 30px;
+            }
+        }
+
+        &__count {
+            background: #fff;
+            box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.07);
+        }
+
+        &__description {
+            h2 {
+                color: var(--text-color, #414141);
+                font-family: Roboto;
+                font-size: 12px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+            }
+
+            p {
+                color: #686868;
+                font-family: Roboto;
+                font-size: 12px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 148.688%;
+            }
+        }
+    }
+}

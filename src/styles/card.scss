@@ -1,0 +1,48 @@
+.card {
+  &__content {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-bottom: 32px;
+    padding-right: 15px;
+    padding-top: 20px;
+    border: 1px solid black;
+    img {
+      width: 100%;
+      margin: 0 auto;
+    }
+    &-title {
+      margin-top: 52px;
+      color: var(--text-color, #414141);
+      font-family: "Roboto", sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: bold;
+      line-height: normal;
+    }
+    &-text {
+      margin-top: 5px;
+      color: var(--text-color, #414141);
+      font-family: "Roboto", sans-serif;
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    &-price {
+      color: var(--text-color, #414141);
+      font-family: "Roboto", sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-top: 9px;
+    }
+    &-favourites {
+      background-color: transparent;
+      border: none;
+      text-align: right;
+      margin-bottom: 10px;
+    }
+  }
+}

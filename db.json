@@ -1,0 +1,603 @@
+{
+  "users": [
+    {
+      "email": "jkhg@gmail.com",
+      "password": "$2a$10$4jdn392463FCtAEVR4qxXebgBihWj2ShhYhXW3XSckOZuLFbMLIoS",
+      "username": "admin",
+      "surname": "Muhidinov",
+      "phone": "0990000935",
+      "id": 1
+    },
+    {
+      "email": "coderun.kg@gmail.com",
+      "password": "$2a$10$XTfZoRjuC8YJ4DkUnllY3OjJokFrwDLhmPL5U42ZhJbMw/fknHb.m",
+      "username": "Fahridin",
+      "surname": "Muhidinov",
+      "phone": "0990000935",
+      "carts": [
+        {
+          "id": 1,
+          "title": "Валенсия Beige",
+          "category": "Барные стулья, кухни",
+          "price": 2300,
+          "width": "43",
+          "deep": "43",
+          "height": "77",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1659592260_11883400.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1659592260_11883400.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1659592272_80691200.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg"
+          ],
+          "count": 1
+        },
+        {
+          "id": 2,
+          "title": "Толикс-2 White Gloss",
+          "category": "Барные стулья",
+          "price": 4690,
+          "width": "43",
+          "deep": "43",
+          "height": "77",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1634714903_57252600.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1634714994_01134100.jpg"
+          ],
+          "count": 1
+        },
+        {
+          "id": 4,
+          "title": "Кускен Navy Blue",
+          "category": "Диваны",
+          "price": 2300,
+          "width": "209",
+          "deep": "109",
+          "height": "99",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1681446508_48018000.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1681446520_22989000.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1681446533_72475400.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1681446542_16474200.jpg"
+          ],
+          "count": 1
+        },
+        {
+          "id": 5,
+          "title": "Шерона Barhat Grey",
+          "category": "Двухспальные кровати",
+          "price": 21990,
+          "width": "209",
+          "deep": "209",
+          "height": "109",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1500020845_82708700.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1559649640_64053100.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1559649651_33104700.jpg",
+            "./src/assets/product/product5.png"
+          ],
+          "count": 1
+        },
+        {
+          "id": 9,
+          "title": "Бенфлит Grey",
+          "category": "Журнальные столы",
+          "price": 7290,
+          "width": "108",
+          "deep": "10",
+          "height": "88",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1621395115_82083100.jpg",
+            "./src/assets/product/product9.png",
+            "./src/assets/product/product9.png",
+            "./src/assets/product/product9.png"
+          ],
+          "count": 1
+        }
+      ],
+      "orders": [
+        {
+          "username": "",
+          "email": "",
+          "surname": "",
+          "phone": "0990000935",
+          "city": "scdvfbg",
+          "street": "dcvfbgf",
+          "house": "cevrbg ",
+          "apartament": "ertyt",
+          "order": [
+            {
+              "id": 1,
+              "title": "Валенсия Beige",
+              "category": "Барные стулья, кухни",
+              "price": 2300,
+              "width": "43",
+              "deep": "43",
+              "height": "77",
+              "rating": 0,
+              "sale": 0,
+              "cards": [],
+              "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+              "images": [
+                "https://mebelin.kg/uploads/catalog/material/full/1659592260_11883400.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1659592260_11883400.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1659592272_80691200.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg"
+              ],
+              "count": 1
+            },
+            {
+              "id": 2,
+              "title": "Толикс-2 White Gloss",
+              "category": "Барные стулья",
+              "price": 4690,
+              "width": "43",
+              "deep": "43",
+              "height": "77",
+              "rating": 0,
+              "sale": 0,
+              "cards": [],
+              "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+              "images": [
+                "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1634714903_57252600.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1634714994_01134100.jpg"
+              ],
+              "count": 1
+            },
+            {
+              "id": 4,
+              "title": "Кускен Navy Blue",
+              "category": "Диваны",
+              "price": 2300,
+              "width": "209",
+              "deep": "109",
+              "height": "99",
+              "rating": 0,
+              "sale": 0,
+              "cards": [],
+              "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+              "images": [
+                "https://mebelin.kg/uploads/catalog/material/full/1681446508_48018000.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1681446520_22989000.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1681446533_72475400.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1681446542_16474200.jpg"
+              ],
+              "count": 1
+            },
+            {
+              "id": 5,
+              "title": "Шерона Barhat Grey",
+              "category": "Двухспальные кровати",
+              "price": 21990,
+              "width": "209",
+              "deep": "209",
+              "height": "109",
+              "rating": 0,
+              "sale": 0,
+              "cards": [],
+              "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+              "images": [
+                "https://mebelin.kg/uploads/catalog/material/full/1500020845_82708700.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1559649640_64053100.jpg",
+                "https://mebelin.kg/uploads/catalog/material/full/1559649651_33104700.jpg",
+                "./src/assets/product/product5.png"
+              ],
+              "count": 1
+            },
+            {
+              "id": 9,
+              "title": "Бенфлит Grey",
+              "category": "Журнальные столы",
+              "price": 7290,
+              "width": "108",
+              "deep": "10",
+              "height": "88",
+              "rating": 0,
+              "sale": 0,
+              "cards": [],
+              "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+              "images": [
+                "https://mebelin.kg/uploads/catalog/material/full/1621395115_82083100.jpg",
+                "./src/assets/product/product9.png",
+                "./src/assets/product/product9.png",
+                "./src/assets/product/product9.png"
+              ],
+              "count": 1
+            }
+          ],
+          "tatlPrice": 38570
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "islombekkamaldinov@gmail.com",
+      "password": "$2a$10$hENzrDHv29aOIbeD4h7tQOHrtDFdUpPSRVjCJVI3BM60jWDBckRsq",
+      "username": "islam",
+      "surname": "islamoc",
+      "phone": "0558883379",
+      "carts": [
+        {
+          "id": 2,
+          "title": "Толикс-2 White Gloss",
+          "category": "Барные стулья",
+          "price": 4690,
+          "width": "43",
+          "deep": "43",
+          "height": "77",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1634714903_57252600.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1634714994_01134100.jpg"
+          ],
+          "count": 7
+        },
+        {
+          "id": 4,
+          "title": "Кускен Navy Blue",
+          "category": "Диваны",
+          "price": 2300,
+          "width": "209",
+          "deep": "109",
+          "height": "99",
+          "rating": 0,
+          "sale": 0,
+          "cards": [],
+          "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+          "images": [
+            "https://mebelin.kg/uploads/catalog/material/full/1681446508_48018000.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1681446520_22989000.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1681446533_72475400.jpg",
+            "https://mebelin.kg/uploads/catalog/material/full/1681446542_16474200.jpg"
+          ],
+          "count": 5
+        }
+      ],
+      "orders": [],
+      "id": 3
+    },
+    {
+      "email": "myizambekov.baiel9@gmail.com",
+      "password": "$2a$10$Npzr.AqTIUrOyNP6gebPjOyCKDZ7rom1sEfTGXSeSjMUD7lIlVedK",
+      "username": "undefined",
+      "surname": "undefined",
+      "phone": "1111111111",
+      "carts": [],
+      "orders": [],
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "title": "Валенсия Beige",
+      "category": "Барные стулья, кухни",
+      "price": 2300,
+      "width": "43",
+      "deep": "43",
+      "height": "77",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1659592260_11883400.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1659592260_11883400.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1659592272_80691200.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Толикс-2 White Gloss",
+      "category": "Барные стулья",
+      "price": 4690,
+      "width": "43",
+      "deep": "43",
+      "height": "77",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1659592280_47160800.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1634714903_57252600.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1634714994_01134100.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Динс Velvet Yellow",
+      "category": "Диваны",
+      "price": 28490,
+      "width": "218",
+      "deep": "95",
+      "height": "90",
+      "rating": 0,
+      "sale": 37990,
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/thumb/1628654852_67960400.png",
+        "https://mebelin.kg/uploads/catalog/material/full/1628655025_71369500.png",
+        "https://mebelin.kg/uploads/catalog/material/full/1628655090_88295900.png",
+        "https://mebelin.kg/uploads/catalog/material/full/1628655107_35787800.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Кускен Navy Blue",
+      "category": "Диваны",
+      "price": 2300,
+      "width": "209",
+      "deep": "109",
+      "height": "99",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1681446508_48018000.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1681446520_22989000.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1681446533_72475400.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1681446542_16474200.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Шерона Barhat Grey",
+      "category": "Двухспальные кровати",
+      "price": 21990,
+      "width": "209",
+      "deep": "209",
+      "height": "109",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1500020845_82708700.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1559649640_64053100.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1559649651_33104700.jpg",
+        "./src/assets/product/product5.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Авиньон-1",
+      "category": "Буфеты",
+      "price": 18990,
+      "width": "80",
+      "deep": "0",
+      "height": "179",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1559385798_28482400.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1559385829_19096400.jpg",
+        "./src/assets/product/product6.png",
+        "./src/assets/product/product6.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Стелла Дуб Сонома",
+      "category": "Комоды",
+      "price": 8990,
+      "width": "100",
+      "deep": "0",
+      "height": "109",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1502452379_56107300.png",
+        "./src/assets/product/product7.png",
+        "./src/assets/product/product7.png",
+        "./src/assets/product/product7.png"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Равенна-1 Light",
+      "category": "Комоды",
+      "price": 14990,
+      "width": "100",
+      "deep": "0",
+      "height": "109",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1500021181_07413900.jpg",
+        "./src/assets/product/product8.png",
+        "./src/assets/product/product8.png",
+        "./src/assets/product/product8.png"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Бенфлит Grey",
+      "category": "Журнальные столы",
+      "price": 7290,
+      "width": "108",
+      "deep": "10",
+      "height": "88",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1621395115_82083100.jpg",
+        "./src/assets/product/product9.png",
+        "./src/assets/product/product9.png",
+        "./src/assets/product/product9.png"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Тиффани Вудлайн Крем",
+      "category": "Письменные столы",
+      "price": 10990,
+      "width": "140",
+      "deep": "0",
+      "height": "90",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1633062848_29359300.jpg",
+        "./src/assets/product/product10.png",
+        "./src/assets/product/product10.png",
+        "./src/assets/product/product10.png"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Валенсия Beige",
+      "category": "Шкафы",
+      "price": 19990,
+      "width": "140",
+      "deep": "0",
+      "height": "190",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1500290922_00650500.jpg",
+        "./src/assets/product/product11.png",
+        "./src/assets/product/product11.png",
+        "./src/assets/product/product11.png"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Лайт-3-170-240 Белый",
+      "category": "Шкафы",
+      "price": 27290,
+      "width": "140",
+      "deep": "0",
+      "height": "190",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1500013534_94801000.jpg",
+        "./src/assets/product/product12.png",
+        "./src/assets/product/product12.png",
+        "./src/assets/product/product12.png"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Вилли Pink",
+      "category": "Детский диван",
+      "price": 21990,
+      "width": "60",
+      "deep": "0",
+      "height": "70",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1603260408_68138200.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1603260408_68138200.jpg",
+        "./src/assets/product/product13.png",
+        "./src/assets/product/product13.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Сан-Паулу Velvet Brown",
+      "category": "Барные стулья",
+      "price": 25990,
+      "width": "90",
+      "deep": "0",
+      "height": "70",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1682589117_37072600.png",
+        "./src/assets/product/product14.png",
+        "./src/assets/product/product14.png",
+        "./src/assets/product/product14.png"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Валенсия Beige",
+      "category": "Барные стулья",
+      "price": 10990,
+      "width": "90",
+      "deep": "0",
+      "height": "100",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1643008036_61206800.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1643008045_83725700.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1643008043_08564000.jpg",
+        "./src/assets/product/product15.png"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Валенсия Beige",
+      "category": "Барные стулья",
+      "price": 19990,
+      "width": "90",
+      "deep": "0",
+      "height": "100",
+      "rating": 0,
+      "sale": 0,
+      "cards": [],
+      "description": "Лаконичные линии и простые формы, безупречный стиль и индивидуальность – все это диван «Динс». Сдержанный скандинавский дизайн украсит любую современную обстановку. Элегантность, комфорт и функциональность, собранные воедино – «Динс» просто создан для размеренного отдыха в кругу семьи или компании друзей!",
+      "images": [
+        "https://mebelin.kg/uploads/catalog/material/full/1647073543_62508600.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1647073543_62508600.jpg",
+        "https://mebelin.kg/uploads/catalog/material/full/1647073563_43118400.jpg",
+        "./src/assets/product/product16.png"
+      ]
+    }
+  ]
+}

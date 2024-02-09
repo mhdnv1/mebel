@@ -1,0 +1,88 @@
+.form {
+    height: 100vh;
+    display: flex;
+    padding: 31px 0 103px 42px;
+
+    &__left {
+        width: 50%;
+    }
+
+    &__right {
+        width: 50%;
+        background: black;
+    }
+
+    &__logo {
+        color: #000;
+        font-family: Poppins;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+
+    &__content {
+        padding-left: 128px;
+        padding-right: 127px;
+
+        h2 {
+            margin-top: 102px;
+            color: #000;
+            font-family: Poppins;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+
+        p {
+            color: #000;
+            font-family: Poppins;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            margin-bottom: 52px;
+            margin-top: 22px;
+        }
+
+        label {
+            span {
+                color: #999;
+                font-family: Poppins;
+                font-size: 13px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+            }
+
+            div {
+                margin-top: 11px;
+                display: flex;
+                align-items: center;
+                column-gap: 12px;
+                border-bottom: 2px solid #000842;
+                ;
+            }
+
+            input {
+                border: none;
+                outline: none;
+            }
+        }
+
+        .form__submit {
+            border-radius: 32px;
+            background: #0C21C1;
+            box-shadow: 0px 4px 26px 0px rgba(0, 0, 0, 0.25);
+            padding: 14px 198px;
+            margin-top: 93px;
+            color: #FFF;
+            font-family: Poppins;
+            font-size: 17px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+}
